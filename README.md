@@ -9,7 +9,7 @@ Aspiring Web Developer passionate to learn.
 - 🌱 Currently learning and growing my web development skills
 - 💻 Focused on frontend and web technologies
 - 🔍 Open to opportunities and collaborations
-- 📫 Reach me at: `jakelorencemeneses05@gmail.com`
+- 📫 Reach me at: jakelorencemeneses05@gmail.com
 
 ---
 
@@ -24,7 +24,7 @@ Aspiring Web Developer passionate to learn.
 
 ### 📊 GitHub Stats
 
-![j4k3lm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j4k3lm&show_icons=true&theme=default&hide_border=true)
+![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j4k3lm&show_icons=true&theme=default&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=j4k3lm&hide_border=true)
 
