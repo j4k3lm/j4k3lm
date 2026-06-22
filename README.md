@@ -24,7 +24,7 @@ Aspiring Web Developer passionate to learn.
 
 ### 📊 GitHub Stats
 
-![j4k3lms's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![j4k3lm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j4k3lm-dev&show_icons=true&theme=default&hide_border=true)
 
 ---
 
